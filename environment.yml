@@ -7,3 +7,4 @@ dependencies:
 - pip:
   - pyexplainer
   - pandas==1.2.5
+  - numpy==2.0.0
