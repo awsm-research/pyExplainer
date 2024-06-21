@@ -56,7 +56,7 @@ nbconvert @ file:///C:/ci/nbconvert_1624479160025/work
 nbformat==5.1.3
 nest-asyncio==1.5.1
 notebook==6.4.12
-numpy==2.0.0
+numpy==1.23.5
 packaging==20.9
 pandas==1.1.0
 pandocfilters==1.4.3
